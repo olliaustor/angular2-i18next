@@ -1,6 +1,6 @@
 {
-  "name": "angular2-i18next",
-  "version": "1.0.5",
+  "name": "angular2-i18next-fork",
+  "version": "1.0.6",
   "license": "MIT",
   "keywords": [
     "angular",
@@ -9,7 +9,7 @@
     "angular2-i18next",
     "ng2-i18next"
   ],
-  "author": "Alex Poter",
+  "author": "Oliver Sass",
   "scripts": {
     "clean": "npm cache clean",
     "ngc-build": "node_modules/.bin/ngc -p tsconfig.json",
@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apoterenko/angular2-i18next.git"
+    "url": "https://github.com/olliaustor/angular2-i18next.git"
   },
   "bugs": {
-    "url": "https://github.com/apoterenko/angular2-i18next/issues"
+    "url": "https://github.com/olliaustor/angular2-i18next/issues"
   },
   "module": "index.js",
   "typings": "index.d.ts",
